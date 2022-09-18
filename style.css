@@ -30,6 +30,7 @@ body * {
 
 header {
     padding: 32px;
+    height: calc(120px + 32px);
 }
 
 header div {
